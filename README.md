@@ -5,7 +5,7 @@
 This project focuses on analyzing customer behavior based on transactional data. The goal is to derive valuable insights into customer preferences, purchasing patterns, and overall behavior through Exploratory Data Analysis (EDA) and association analysis.
 
 ## Dataset
-The dataset used in this project consists of transactional data obtained from [source](link_to_data_source). It includes information such as transaction IDs, product descriptions, quantities, prices, etc.
+The dataset used in this project consists of transactional data obtained from [source](https://www.kaggle.com/datasets/iamprateek/store-transaction-data). It includes information such as transaction IDs, product descriptions, quantities, prices, etc.
 
 ## File Descriptions
 - `custbehaviour.ipynb`: Jupyter Notebook containing the Python code for the analysis.
