@@ -28,10 +28,9 @@ The dataset used in this project consists of transactional data obtained from [s
 
 ## How to Run
 To run the analysis notebook:
-1. Clone the repository: `git clone <repository_url>`
-2. Navigate to the project directory: `cd customer-behavior-analysis`
-3. Open the Jupyter Notebook: `jupyter notebook custbehaviour.ipynb`
-4. Execute the cells in the notebook sequentially to run the analysis.
+1. Clone the repository: `git clone <https://github.com/priyankav-27/CVIP_Datascience_phase1task.git>`
+2. Open the Jupyter Notebook: `custbehaviour.ipynb`
+3. Execute the cells in the notebook sequentially to run the analysis.
 
 ## Results
 The analysis provides insights into customer preferences, purchasing patterns, and associations between products. These insights can be used to drive marketing strategies, product recommendations, pricing optimization, and customer retention efforts.
